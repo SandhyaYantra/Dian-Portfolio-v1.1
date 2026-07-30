@@ -76,17 +76,7 @@ export function Navbar() {
 
       {open && (
         <div className="glass-nav md:hidden">
-          <nav className="mx-auto flex max-w-7xl flex-col gap-1 px-5 pt-2 pb-6" aria-label="Mobile">
-            <div className="mb-2 flex justify-end">
-              <button
-                type="button"
-                onClick={() => setOpen(false)}
-                aria-label="Close menu"
-                className="inline-flex size-9 items-center justify-center rounded-full border border-border text-muted-foreground"
-              >
-                <X className="size-4" />
-              </button>
-            </div>
+          <nav className="mx-auto flex max-w-7xl flex-col gap-1 px-5 pt-3 pb-6" aria-label="Mobile">
             {links.map((link) => (
               <Link
                 key={link.to}
