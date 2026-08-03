@@ -1,26 +1,16 @@
-# Pixel Perfect
+# Dian Portfolio
 
-Implement exactly the screenshot and nothing else
+🚧 Status: In Development
 
-This project was built with [Lovable](https://lovable.dev).
+This repository documents my journey of learning frontend development from the ground up.
 
-**Live app**: https://pixel-perfect-render-075.lovable.app
+Every commit represents a new concept I have learned and applied to this project.
 
-## Build with Lovable
+## Goals
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/6c99ee63-d6e4-45b3-bca1-960daa2bbc72).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+- Learn HTML
+- Learn CSS
+- Learn JavaScript
+- Build a premium portfolio
+- Deploy with GitHub Pages
+- Keep improving over time
