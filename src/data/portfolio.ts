@@ -9,7 +9,7 @@ export const profile = {
   headline: "Building Digital Experiences Through Continuous Learning.",
   intro:
     "I moved from years of professional kitchen work into software development, carrying the same discipline into code. Today I build interfaces, study systems, and ship projects that document steady technical growth.",
-  email: "hello@dianseptio.dev",
+  email: "dikhaira12@gmail.com",
   cvUrl: "/cv-dian-septio.pdf",
   socials: {
     github: "#",
@@ -37,19 +37,19 @@ export const timeline = [
   {
     stage: "Stage 01",
     title: "Professional Kitchen",
-    period: "2018 — 2022",
+    period: "2022 — Present",
     body: "Worked line and prep in high-volume kitchens. Learned process design, timing, standards, and consistency under pressure.",
   },
   {
     stage: "Stage 02",
     title: "Discovering Technology",
-    period: "2022 — 2023",
+    period: "2022 — Present",
     body: "Began studying HTML, CSS, and JavaScript after hours. Recognised the same craft logic behind software systems.",
   },
   {
     stage: "Stage 03",
     title: "Self-Learning & Building",
-    period: "2023 — 2025",
+    period: "2023 — Present",
     body: "Moved from tutorials to real builds: component architecture, state, APIs, accessibility, and version control.",
   },
   {
@@ -78,7 +78,7 @@ export const projects: Project[] = [
       "A kitchen prep planner that turns daily service lists into trackable tasks, built to replace paper checklists.",
     tags: ["React", "TypeScript", "Tailwind"],
     image: project1,
-    year: "2025",
+    year: "2026",
     featured: true,
   },
   {
@@ -88,7 +88,7 @@ export const projects: Project[] = [
       "Inventory tracking dashboard with usage trends and low-stock signals, designed around real ordering workflows.",
     tags: ["React", "Charts", "REST API"],
     image: project2,
-    year: "2025",
+    year: "2026",
     featured: true,
   },
   {
